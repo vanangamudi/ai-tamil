@@ -1,0 +1,4 @@
+Sitemap: https://vanangamudi.github.io/ai-tamil/sitemapindex.xml
+
+User-Agent: *
+Host: vanangamudi.github.io
